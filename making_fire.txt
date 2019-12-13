@@ -11,9 +11,11 @@
     3.1.1 pack kindling
     3.1.2 choose wood structure
     3.1.2.1 Argue with friends for minimum 1 hour on best structure
+    3.1.2.2 Open beer
   3.2 Make spark
     3.2.1 flick lighter
   3.3 Blow air
     3.3.1 Breath in
     3.3.2 Point face at ember
-    3.3.3 Breath out
+    3.3.3 pucker lips
+    3.3.4 Breath out
